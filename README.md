@@ -73,3 +73,5 @@ This project successfully demonstrates the practical implementation of modern cr
 
 
 Output:
+<img width="315" height="131" alt="Image" src="https://github.com/user-attachments/assets/ca175295-285c-46e1-b17a-ca451df12149" />
+<img width="289" height="135" alt="Image" src="https://github.com/user-attachments/assets/4e055ddb-e171-4e75-a5e1-501e06514f85" />
